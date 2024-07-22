@@ -1,6 +1,7 @@
+Sure, here's the updated `README.md` file without the license section:
 
 ```markdown
-# Sales Data Analysis
+# Forecasting Future Sales
 
 ## Description
 This project aims to analyze historical sales data to identify trends and patterns, forecast future sales, and provide insights for business decision-making. The analysis includes data cleaning, exploratory data analysis (EDA), and time series forecasting.
@@ -11,16 +12,16 @@ This project aims to analyze historical sales data to identify trends and patter
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Findings](#findings)
-
+- [Contributing](#contributing)
 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Sales-Data-Analysis.git
+   git clone https://github.com/shyLesh001/Forecasting-Future-Sales.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Sales-Data-Analysis
+   cd Forecasting-Future-Sales
    ```
 3. Install the required packages:
    ```sh
@@ -60,6 +61,3 @@ This project aims to analyze historical sales data to identify trends and patter
 ### 5. Sales Forecast
 - The time series forecasting model predicts continued growth in sales over the next 12 months.
 - The forecasted data can be used for strategic planning and inventory management.
-
-
-
