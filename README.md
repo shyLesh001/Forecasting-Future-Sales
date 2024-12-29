@@ -1,4 +1,4 @@
-Sure, here's the updated `README.md` file without the license section:
+
 
 ```markdown
 # Forecasting Future Sales
